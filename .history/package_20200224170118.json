@@ -1,0 +1,15 @@
+{
+  "name": "js_webpack_mininv",
+  "version": "1.0.0",
+  "description": "Изучаю Webpack по курсу Владилена Минина.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "javascript"
+  ],
+  "author": "Victor M <advert31337@yandex.ru>",
+  "license": "ISC"
+}
